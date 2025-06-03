@@ -1,0 +1,3 @@
+/Users/beck/CLionProjects/2024-2025_fish_C/cmake-build-debug/CMakeFiles/2024_2025_fish_C.dir
+/Users/beck/CLionProjects/2024-2025_fish_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/beck/CLionProjects/2024-2025_fish_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

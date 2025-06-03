@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/beck/CLionProjects/2024-2025_fish_C -B /Users/beck/CLionProjects/2024-2025_fish_C/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/beck/CLionProjects/2024-2025_fish_C/cmake-build-debug
